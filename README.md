@@ -1,3 +1,3 @@
-# 15. WordPress Meetup Zagreb - static
+# WEBLICA 2018 - static
 
 Version 1.0
