@@ -1,0 +1,12 @@
+#Merge files
+*.orig
+
+#Other
+Thumbs.db
+.DS_Store
+node_modules/
+
+#Logs
+access.log
+error.log
+error_log

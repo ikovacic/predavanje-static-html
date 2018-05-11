@@ -1,0 +1,29 @@
+/**
+ * =============================================================================
+ * Reset
+ * =============================================================================
+ */
+
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; /*behavior: url(/javascript/boxsizing.htc);*/ }
+blockquote, dl, dd, h1, h2, h3, h4, h5, h6, p, pre
+                            { margin: 0; }
+fieldset                    { border: 0; margin: 0; padding: 0; }
+/*html                        { font-size: 1em; line-height: 1; }*/
+ol,  ul                     { list-style: none; margin: 0; padding: 0; }
+fieldset                    { margin: 0; padding: 0; border: 0; }
+label[for]                  { cursor: pointer; }
+textarea                    { resize: vertical; }
+iframe                      { border: 0; }
+::-webkit-input-placeholder { color: #252525; opacity: 1; }
+:-moz-placeholder           { color: #252525; opacity: 1; }
+::-moz-placeholder          { color: #252525; opacity: 1; }
+:-ms-input-placeholder      { color: #252525; opacity: 1; }
+
+
+/*html                        { font: 100%/1.5 'museo-sans', 'Open Sans', Arial, Tahoma, Helvetica, sans-serif; font-weight: 400; }*/
+html, body                  { height: 100%; }
+body                        { word-wrap: break-word; }
+abbr                        { font-variant: small-caps; }
+
+dl dd                       { margin-left: 0; }
+ul ul, ol ol                { list-style-type: none; }
