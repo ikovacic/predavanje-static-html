@@ -1,3 +1,3 @@
-# WEBLICA 2018 - static
+# Predavanje - static HTML
 
 Version 1.0
